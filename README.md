@@ -5,7 +5,7 @@ A clever JS script that uses [Cloudflare Workers](https://workers.cloudflare.com
 ##### Copy the script. <br>
 ##### Go to [Cloudflare Workers](https://workers.cloudflare.com). <br>
 ##### Make an account if you don't have one. <br>
-##### Create a new worker, give any name you want. <br>
+##### Create a new worker, give any name you want. (It should be in the "Workers & Pages" under the "Compute" section on the sidebar.)<br>
 ##### Choose "Hello World" as the template. <br>
 ##### Go into the code of your project. <br>
 ##### Paste the code into the workers.js file which should be the only file there. <br>
