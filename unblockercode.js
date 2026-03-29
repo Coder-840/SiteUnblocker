@@ -1,4 +1,4 @@
-const targetDomain = "https://target-site.com";
+const targetDomain = "target-site.com";
 
 export default {
   async fetch(request) {
